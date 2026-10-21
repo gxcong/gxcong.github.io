@@ -1,0 +1,27 @@
+{
+  "fonts": [
+    {
+      "file": "crimson-pro-latin-italic.woff2",
+      "source": "https://fonts.gstatic.com/s/crimsonpro/v28/q5uBsoa5M_tv7IihmnkabARekYNwDeChrlU.woff2",
+      "css_source": "https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400..700;1,400..700&display=swap",
+      "size_bytes": 51376
+    },
+    {
+      "file": "crimson-pro-latin-normal.woff2",
+      "source": "https://fonts.gstatic.com/s/crimsonpro/v28/q5uDsoa5M_tv7IihmnkabARboYF6CsKj.woff2",
+      "css_source": "https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400..700;1,400..700&display=swap",
+      "size_bytes": 48152
+    },
+    {
+      "file": "ubuntu-mono-latin-normal.woff2",
+      "source": "https://fonts.gstatic.com/s/ubuntumono/v19/KFOjCneDtsqEr0keqCMhbCc6CsTYl4BO.woff2",
+      "css_source": "https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap",
+      "size_bytes": 11928
+    }
+  ],
+  "licenses": {
+    "Crimson Pro": "SIL Open Font License 1.1",
+    "Ubuntu Mono": "Ubuntu Font Licence 1.0"
+  },
+  "subset": "Latin; English site"
+}
